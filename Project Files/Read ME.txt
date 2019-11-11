@@ -1,0 +1,5 @@
+Trebalo bi da radi samo ako instalirate ovaj App.mlappinst unutar Matlaba.
+Ako ne radi kopirati sadrzaj iz Backup-a u ovaj (gde je read-me) folder i probati direktnim
+pozivanjem App-a odatle. (Bitno je da se sadrzaj Stocks foldera dobro referencira unutar aplikacije)
+
+Have fun investing.
